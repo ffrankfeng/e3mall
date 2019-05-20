@@ -1,5 +1,5 @@
 # e3mall
-[pom]:C:/Users/asus/Desktop/1.png
+[pom]:1.png
 
 
 注意点：
